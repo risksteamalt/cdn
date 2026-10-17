@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="stickman-gta-city" viewBox="0 0 100 100">
+      <!-- your art here, e.g. a stick figure -->
+   <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -388,3 +392,9 @@
   </script>
 </body>
 </html>
+
+    <symbol id="other-icon" viewBox="0 0 100 100">
+      <!-- another art -->
+    </symbol>
+  </defs>
+</svg>
