@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="stickman-gta-city" viewBox="0 0 100 100">
+      <circle cx="50" cy="20" r="8" fill="#333"/>
+      <line x1="50" y1="28" x2="50" y2="60" stroke="#333" stroke-width="4"/>
+      <line x1="30" y1="40" x2="70" y2="40" stroke="#333" stroke-width="4"/>
+    </symbol>
+
+    <symbol id="another-stickman" viewBox="0 0 100 100">
+      <!-- your other figure -->
+    </symbol>
+  </defs>
+</svg>
